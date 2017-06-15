@@ -3,6 +3,8 @@
 by: Gerhard Messelink
 date: june 14 2017
 
+Used resource: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ## 1. Merges the training and the test sets to create one data set. 
 
 Checking the files in the zipfile we can use the following source files:
